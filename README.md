@@ -27,7 +27,7 @@
 
 - 🏥 ICT Staff — Hospital Environment  
 - 🧠 Strong in **PHP Native & Laravel**  
-- 🏗 Building **Information Systems, Helpdesk, Absensi, BK, SIMRS tools**  
+- 🏗 Building **Information Systems, Helpdesk, Absensi, SIMAMED, SIMRS tools**  
 - 🎯 Goal: Deliver **clean code + real business value**
 
 ---
