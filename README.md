@@ -1,56 +1,36 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0b1220&height=190&section=header&text=Ahmad%20Fauzi&fontSize=40&fontColor=E5E7EB&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:0b1220&height=200&section=header&text=Ahmad%20Fauzi&fontSize=42&fontColor=E5E7EB&animation=twinkling&fontAlignY=36" />
 </p>
 
-<h2 align="center" style="color:#E5E7EB;">
-  👨‍💻 Web Developer • ICT Staff • System Builder
-</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-  center=true&vCenter=true&width=680&
-  color=E5E7EB&
-  background=02061700&
-  lines=PHP+Native+%7C+Laravel+Developer;
-  Hospital+%26+Institution+Information+Systems;
-  Clean+Code+%7C+Secure+Systems+%7C+Modern+UI;
-  Building+Real+World+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=720&size=22&duration=3000&pause=600&color=22D3EE&background=00000000&lines=PHP+Native+%7C+Laravel+Developer;ICT+Staff+%7C+System+Builder;Hospital+%26+Institution+Information+Systems;Clean+Code+%7C+Secure+Systems+%7C+Modern+UI" />
 </p>
 
 <p align="center">
   <a href="https://instagram.com/fauzi_ahmd1">
-    <img src="https://img.shields.io/badge/Instagram-@fauzi_ahmd1-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-@fauzi_ahmd1-0b1220?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="https://linkedin.com/in/ahmad-fauzi-a4b356194/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Fauzi-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Fauzi-0b1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Fauzinesia&style=for-the-badge&color=111827&labelColor=020617" />
+  <img src="https://komarev.com/ghpvc/?username=Fauzinesia&style=for-the-badge&label=PROFILE+VIEWS&color=22D3EE&labelColor=050816" />
 </p>
-
----
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://img.shields.io/badge/Focus-PHP%20%26%20Laravel-050816?style=for-the-badge&labelColor=0b1220&color=22D3EE" />
+  <img src="https://img.shields.io/badge/Build-Information%20Systems-050816?style=for-the-badge&labelColor=0b1220&color=A78BFA" />
+  <img src="https://img.shields.io/badge/Style-Clean%20%26%20Scalable-050816?style=for-the-badge&labelColor=0b1220&color=34D399" />
 </p>
 
 ---
 
-## 🚀 Professional Summary
-> Web Developer focused on building **reliable, scalable, and user-friendly systems** for hospitals, schools, and institutions.
+## 🧠 About Me (Dark Mode Ready)
+> Web Developer focused on building **reliable, scalable, and user-friendly systems** for hospitals & institutions.
 
 - 🏥 ICT Staff — Hospital Environment  
-- 🧠 Strong in **PHP Native & Laravel**  
-- 🏗 Building **SIMRS tools, Helpdesk, Absensi, Asset & Maintenance Systems**  
-- 🎯 Goal: Deliver **clean code + real business value**
-
----
-
-## 🧩 Core Expertise
-- Backend Development (PHP Native, Laravel)
-- Database Design & Optimization (MySQL)
-- System Architecture & Admin Dashboards
-- API Integration & Basic Security
-- UI Development (Bootstrap & TailwindCSS)
+- 🧩 Strong in **PHP Native & Laravel**  
+- 🗄️ MySQL design + optimization  
+- 🎯 Goal: clean code, fast delivery, real business value
 
 ---
 
@@ -61,9 +41,30 @@
 
 ---
 
-## 📊 GitHub Performance
+## 🕹️ Contribution Snake (Dark)
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fauzinesia&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fauzinesia&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fauzinesia&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Dark)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fauzinesia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzinesia&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -74,16 +75,15 @@
 ---
 
 ## 🎯 What I’m Working On
-- 🤖 AI Assistant for Helpdesk System
-- 🔐 Improving system security & performance
-- 🧱 Building reusable admin system templates
+- 🤖 AI Assistant for Helpdesk System  
+- 🔐 Improve security & performance  
+- 🧱 Reusable admin templates & dashboards  
 
 ---
 
 ## 🤝 Let’s Collaborate
-💬 Open for collaboration, freelance, or institutional projects  
-📩 Reach me via **Instagram or LinkedIn**
+📩 Reach me via **Instagram** or **LinkedIn**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:020617&height=130&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:050816&height=140&section=footer" />
 </p>
