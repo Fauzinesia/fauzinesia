@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=720&size=22&duration=3000&pause=600&color=22D3EE&background=00000000&lines=PHP+Native+%7C+Laravel+Developer;ICT+Staff+%7C+System+Builder;Hospital+%26+Institution+Information+Systems;Clean+Code+%7C+Secure+Systems+%7C+Modern+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=760&size=22&duration=3000&pause=600&color=22D3EE&background=00000000&lines=PHP+Native+%7C+Laravel+Developer;ICT+Staff+%7C+System+Builder;Hospital+%26+Institution+Information+Systems;Clean+Code+%7C+Secure+Systems+%7C+Modern+UI" />
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@
 
 ---
 
-## 🧠 About Me (Dark Mode Ready)
+## 🧠 About Me
 > Web Developer focused on building **reliable, scalable, and user-friendly systems** for hospitals & institutions.
 
 - 🏥 ICT Staff — Hospital Environment  
 - 🧩 Strong in **PHP Native & Laravel**  
-- 🗄️ MySQL design + optimization  
+- 🗄️ Database: MySQL (design + optimization)  
 - 🎯 Goal: clean code, fast delivery, real business value
 
 ---
@@ -44,6 +44,17 @@
 ## 🕹️ Contribution Snake (Dark)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## ⚔️ 
+<p align="center">
+  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="520" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/POWER%20LEVEL-OVER%209000-050816?style=for-the-badge&labelColor=0b1220&color=F59E0B" />
 </p>
 
 ---
