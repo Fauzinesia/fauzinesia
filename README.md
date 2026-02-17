@@ -16,21 +16,16 @@
   <img src="https://komarev.com/ghpvc/?username=Fauzinesia&style=for-the-badge&label=PROFILE+VIEWS&color=22D3EE&labelColor=050816" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-PHP%20%26%20Laravel-050816?style=for-the-badge&labelColor=0b1220&color=22D3EE" />
-  <img src="https://img.shields.io/badge/Build-Information%20Systems-050816?style=for-the-badge&labelColor=0b1220&color=A78BFA" />
-  <img src="https://img.shields.io/badge/Style-Clean%20%26%20Scalable-050816?style=for-the-badge&labelColor=0b1220&color=34D399" />
-</p>
-
 ---
 
 ## 🧠 About Me
-> Web Developer focused on building **reliable, scalable, and user-friendly systems** for hospitals & institutions.
+> Backend-focused Web Developer building scalable and reliable systems for institutions.
 
 - 🏥 ICT Staff — Hospital Environment  
 - 🧩 Strong in **PHP Native & Laravel**  
-- 🗄️ Database: MySQL (design + optimization)  
-- 🎯 Goal: clean code, fast delivery, real business value
+- 🗄️ MySQL (Design, Optimization, Query Tuning)  
+- 🏗 System Architecture & Admin Dashboard Development  
+- 🎯 Delivering clean, maintainable, production-ready code  
 
 ---
 
@@ -41,39 +36,28 @@
 
 ---
 
-## 🕹️ Contribution Snake (Dark)
+## 🕹 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## ⚔️ 
-<p align="center">
-  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="520" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/POWER%20LEVEL-OVER%209000-050816?style=for-the-badge&labelColor=0b1220&color=F59E0B" />
-</p>
-
----
-
-## 🏆 Trophies
+## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fauzinesia&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Development Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fauzinesia&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Dark)
+## 📊 GitHub Analytics
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fauzinesia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzinesia&layout=compact&theme=tokyonight&hide_border=true" />
@@ -85,16 +69,14 @@
 
 ---
 
-## 🎯 What I’m Working On
-- 🤖 AI Assistant for Helpdesk System  
-- 🔐 Improve security & performance  
-- 🧱 Reusable admin templates & dashboards  
+## 🚀 Currently Exploring
+- 🤖 AI integration for Helpdesk systems  
+- 🔐 System hardening & security improvements  
+- ⚡ Performance optimization & reusable architecture  
 
 ---
 
-## 🤝 Let’s Collaborate
-📩 Reach me via **Instagram** or **LinkedIn**
-
+## 🤝 Let’s Connect
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:050816&height=140&section=footer" />
 </p>
